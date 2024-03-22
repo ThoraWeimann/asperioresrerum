@@ -1,0 +1,25 @@
+{
+  "devDependencies": {
+    "eslint": "6.1.0",
+    "eslint-config-liferay": "4.6.0",
+    "prettier": "1.18.2"
+  },
+  "jest": {
+    "testMatch": [
+      "**/test/**/*.js"
+    ]
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "version": "1.0.0",
+  "name": "asperioresrerum",
+  "author": "KrystalSanford",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ThoraWeimann/asperioresrerum.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ThoraWeimann/asperioresrerum.git/issues"
+  }
+}
